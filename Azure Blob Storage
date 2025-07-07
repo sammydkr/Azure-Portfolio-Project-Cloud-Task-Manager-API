@@ -1,0 +1,23 @@
+# ☁️ Cloud Task Manager API
+
+A simple REST API built with Node.js and hosted on Microsoft Azure. Users can register, log in, and manage personal task lists with optional file uploads stored in Azure Blob Storage.
+
+### 🔧 Tech Stack
+- Node.js + Express
+- Azure SQL Database
+- Azure Blob Storage
+- JWT Authentication
+- Azure App Service (Deployment)
+
+### 🌐 Live Demo
+🚀 [Live API Endpoint](https://your-api.azurewebsites.net)  
+📄 [Swagger Docs](https://your-api.azurewebsites.net/docs)
+
+### 📁 Sample Request
+```bash
+POST /tasks
+Authorization: Bearer <JWT>
+Body: {
+  "title": "Finish Azure Project",
+  "description": "Push to GitHub"
+}
