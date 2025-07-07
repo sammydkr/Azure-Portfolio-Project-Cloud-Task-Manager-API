@@ -1,0 +1,17 @@
+cloud-task-api/
+│
+├── controllers/
+│   └── taskController.js
+├── models/
+│   └── taskModel.js
+├── routes/
+│   └── taskRoutes.js
+├── middleware/
+│   └── auth.js
+├── utils/
+│   └── db.js
+│
+├── .env
+├── app.js
+├── package.json
+└── README.md
