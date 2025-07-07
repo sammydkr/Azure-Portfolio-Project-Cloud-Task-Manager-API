@@ -1,0 +1,17 @@
+
+---
+
+## 🚀 Optional Features (Bonus)
+
+- Use **Azure Function** to send email reminders  
+- Integrate **Azure Monitor Logs**  
+- Add **Docker container** for Azure Web App
+
+---
+
+Would you like:
+- The **full source code starter repo** (Node or Python)?  
+- A **GitHub-ready README template**?  
+- Help **deploying step-by-step on Azure**?
+
+Let me know which tech stack you prefer and I’ll build the base for you.
